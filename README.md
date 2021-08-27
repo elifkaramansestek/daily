@@ -4,7 +4,7 @@ dailyreports
 - Watched Designing Modularity on ASP.NET Core: Virtual File System
 - Solved Error : Win32Exception: The network path was not found.
 - Configurated SQLSERVER sa user. 
-- -Watched Entity framework core Migrations.
+- Watched Entity framework core Migrations.
 
 ## 26.08.2021
 
